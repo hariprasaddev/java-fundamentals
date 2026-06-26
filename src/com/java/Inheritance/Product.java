@@ -1,4 +1,4 @@
-package inheritance;
+package com.java.Inheritance;
 
 public class Product {
 

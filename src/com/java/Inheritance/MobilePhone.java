@@ -1,4 +1,4 @@
-package inheritance;
+package com.java.Inheritance;
 
 public class MobilePhone extends Product {
     int cameraInPixels;
