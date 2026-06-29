@@ -66,6 +66,15 @@ public class StringTest {
         System.out.println(password1.trim().length());
         int phoneNo = 324234;
         System.out.println(String.valueOf(phoneNo));
+        String file = "resume.pdf";
+
+        System.out.println(file.startsWith("res"));
+        System.out.println(file.endsWith(".pdf"));
+        String s1 = new String("Java");
+        String s2 = new String("Java");
+
+        System.out.println(s1 == s2);
+        System.out.println(s1.equals(s2));
 
 
 
